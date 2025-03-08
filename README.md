@@ -33,4 +33,12 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/shravaniiiiii/Leetcode/tree/master/1013-fibonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [1904-second-largest-digit-in-a-string](https://github.com/shravaniiiiii/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+## String
+|  |
+| ------- |
+| [1904-second-largest-digit-in-a-string](https://github.com/shravaniiiiii/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 <!---LeetCode Topics End-->
