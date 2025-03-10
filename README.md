@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/shravaniiiiii/Leetcode/tree/master/0090-subsets-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shravaniiiiii/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/shravaniiiiii/Leetcode/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/shravaniiiiii/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -43,4 +44,12 @@
 |  |
 | ------- |
 | [1904-second-largest-digit-in-a-string](https://github.com/shravaniiiiii/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/shravaniiiiii/Leetcode/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/shravaniiiiii/Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
