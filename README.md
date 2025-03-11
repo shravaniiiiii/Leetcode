@@ -55,6 +55,7 @@
 ## Database
 |  |
 | ------- |
+| [0596-classes-more-than-5-students](https://github.com/shravaniiiiii/Leetcode/tree/master/0596-classes-more-than-5-students) |
 | [1182-game-play-analysis-iv](https://github.com/shravaniiiiii/Leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/shravaniiiiii/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/shravaniiiiii/Leetcode/tree/master/1292-immediate-food-delivery-ii) |
