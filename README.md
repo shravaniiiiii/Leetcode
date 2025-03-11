@@ -52,4 +52,8 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/shravaniiiiii/Leetcode/tree/master/0090-subsets-ii) |
+## Database
+|  |
+| ------- |
+| [1338-queries-quality-and-percentage](https://github.com/shravaniiiiii/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 <!---LeetCode Topics End-->
