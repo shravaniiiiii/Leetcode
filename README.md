@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0596-classes-more-than-5-students](https://github.com/shravaniiiiii/Leetcode/tree/master/0596-classes-more-than-5-students) |
+| [0626-exchange-seats](https://github.com/shravaniiiiii/Leetcode/tree/master/0626-exchange-seats) |
 | [1155-product-sales-analysis-iii](https://github.com/shravaniiiiii/Leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/shravaniiiiii/Leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/shravaniiiiii/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
