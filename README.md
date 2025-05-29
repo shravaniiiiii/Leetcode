@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/shravaniiiiii/Leetcode/tree/master/0090-subsets-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/shravaniiiiii/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shravaniiiiii/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/shravaniiiiii/Leetcode/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/shravaniiiiii/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -38,6 +39,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/shravaniiiiii/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/shravaniiiiii/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1904-second-largest-digit-in-a-string](https://github.com/shravaniiiiii/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 ## String
