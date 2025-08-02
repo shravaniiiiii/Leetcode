@@ -23,6 +23,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shravaniiiiii/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shravaniiiiii/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
@@ -40,11 +41,13 @@
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shravaniiiiii/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/shravaniiiiii/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1319-unique-number-of-occurrences](https://github.com/shravaniiiiii/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1904-second-largest-digit-in-a-string](https://github.com/shravaniiiiii/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 ## String
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shravaniiiiii/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1904-second-largest-digit-in-a-string](https://github.com/shravaniiiiii/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 ## Backtracking
 |  |
@@ -85,4 +88,16 @@
 | [2057-count-salary-categories](https://github.com/shravaniiiiii/Leetcode/tree/master/2057-count-salary-categories) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/shravaniiiiii/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/shravaniiiiii/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shravaniiiiii/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shravaniiiiii/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shravaniiiiii/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
